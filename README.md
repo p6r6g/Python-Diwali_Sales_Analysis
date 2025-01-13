@@ -13,3 +13,5 @@ After the Data Cleaning, followed by EDA of Sales impacted by factors such as :
     4. Marital status
     5. Occupation
     6. Product category
+
+The detailed analysis can be found in the 'Diwali_Sales_Analysis.ipynb' file.
